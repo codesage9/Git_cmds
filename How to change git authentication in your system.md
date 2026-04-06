@@ -14,12 +14,13 @@ Clear old credentials
 
 ## - On Windows: open Credential Manager → Windows Credentials.
 
+    ![alt text](image.png)
+    ![alt text](image-1.png)
 Find entries like git:https://github.com and delete them.
 
 ## 2. Push again
 
-## Run:
-
+Run:
 ### bash
     - git push origin main
 
