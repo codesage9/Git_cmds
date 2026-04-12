@@ -42,3 +42,16 @@ All Git Commands that I know
 
 ## Push cmd
     1. git push origin main
+
+## git tag
+	to show details of the perticular tags 
+	1. git tag
+	2. git show v1.1
+	First commit changes, then add tag
+	3. git tag -a v2.0 -m "Message"
+	4. git show v1.1
+	5. git push origin v2.0
+## To show history
+	1. git log --oneline
+	2. git log
+	3. git log <filename>
